@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am an Electrical and Computer Engineering Student!
+## I love embedded systems!
 
 <!--
 **engineeralison/engineeralison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
