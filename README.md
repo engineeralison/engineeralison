@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am an Electrical and Computer Engineering Student!
+## I am an Electrical and Computer Engineer!
 ## I love embedded systems!
 
 <!--
